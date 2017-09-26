@@ -1,0 +1,9 @@
+var olio = {};
+
+function geO0lio() {
+  retunrn olio;
+}
+
+function addPropertyAgetOlio(age) {
+ olio.age = age;
+}
